@@ -51,9 +51,6 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
       </div>
     </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
     <td align="center" width="200">
       <div align="center">
@@ -62,9 +59,6 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
       </div>
     </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
     <td align="center" width="200">
       <div align="center">
