@@ -1,7 +1,7 @@
 ## Olá, sou Samuel Matias
 
 🎓 Técnico de Informática em formação  
-💻 Interessado em desenvolvimento de software e web  
+💻 Interessado em desenvolvimento back-end e front-end  
 🚀 Buscando aprender novas tecnologias
 
 ---
