@@ -46,17 +46,17 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="URL_DA_IMAGEM" width="80"><br><br>
+      <img src="back.jpg" width="80"><br><br>
       ⚙️ <b>Desenvolvimento Backend</b><br>
     </td>
 
     <td align="center" width="200">
-      <img src="URL_DA_IMAGEM" width="80"><br><br>
+      <img src="front.jpg" width="80"><br><br>
       🎨 <b>Desenvolvimento Frontend</b><br>
     </td>
 
     <td align="center" width="200">
-      <img src="URL_DA_IMAGEM" width="80"><br><br>
+      <img src="artificial.jpg" width="80"><br><br>
       🤖 <b>Inteligência Artificial</b><br>
     </td>
   </tr>
