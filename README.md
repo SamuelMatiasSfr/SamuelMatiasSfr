@@ -12,7 +12,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 
 ---
 
-## Competências
+## 💻 Competências
 
 <div align="center">
 
@@ -62,6 +62,57 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
     </td>
   </tr>
 </table>
+
+---
+
+## 📚 Principais Projetos
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      💡 <b>TCC</b><br><br>
+      Projeto voltado para o estudo e prática de linguagens de programação,
+      explorando conceitos avançados e implementações práticas.<br><br>
+
+      <a href="https://github.com/SEU_USUARIO/LLP2">
+        🔗 <b>Ver Código</b>
+      </a>
+    </td>
+
+    <td width="50%" valign="top">
+      🤖 <b>Programa-METACEFET-2024</b><br><br>
+      Trabalho premiado por utilizar IA em websites imobiliários,
+      explorando a API da OpenAI junto às bibliotecas Flask, LangChain e NLTK.<br><br>
+
+      <a href="https://github.com/SEU_USUARIO/Programa-METACEFET-2024">
+        🔗 <b>Ver Código</b>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      🛠️ <b>TrabalhoPratico2</b><br><br>
+      Projeto colaborativo que demonstra habilidades em trabalho em equipe
+      e resolução de problemas práticos.<br><br>
+
+      <a href="https://github.com/SEU_USUARIO/TrabalhoPratico2">
+        🔗 <b>Ver Código</b>
+      </a>
+    </td>
+
+    <td width="50%" valign="top">
+      ➕ <b>Mais Projetos</b><br><br>
+      Explore todos os meus repositórios para acompanhar a evolução do meu
+      aprendizado e projetos diversos.<br><br>
+
+      <a href="https://github.com/SEU_USUARIO?tab=repositories">
+        📂 <b>Todos os Projetos</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
