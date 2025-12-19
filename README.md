@@ -69,26 +69,68 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   <tr>
     <td width="50%" valign="top">
       🧠 <b>TCC</b><br><br>
-      Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC), que utiliza Inteligência Artificial para determinar a porcentagem de chance de ter tumor em uma       imagem de ressonância magnética da região cerebral.<br><br>
-      <a href="https://github.com/Grupo-8-2025/TCC">
-        🔗 <b>Ver Código</b>
+      Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC), que utiliza
+      Inteligência Artificial para determinar a porcentagem de chance de ter tumor
+      em uma imagem de ressonância magnética da região cerebral.<br><br>
+      <a href="https://github.com/Grupo-8-2025/TCC"
+         style="display:inline-block;
+                padding:6px 12px;
+                background-color:#5865F2;
+                color:white;
+                text-decoration:none;
+                border-radius:6px;
+                font-size:13px;
+                font-weight:bold;">
+        🔗 Ver Código
       </a>
     </td>
     <td width="50%" valign="top">
       📱 <b>TrabalhoPraticoWEB</b><br><br>
-       Projeto desenvolvido em Aplicações para Web II, para fins didáticos, que utiliza a linguagem de programação PHP e o padrão de projeto Model-View-Controller (MVC).<br><br>
-      <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB">
-        🔗 <b>Ver Código</b>
+      Projeto desenvolvido em Aplicações para Web II, para fins didáticos,
+      utilizando PHP e o padrão Model-View-Controller (MVC).<br><br>
+      <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB"
+         style="display:inline-block;
+                padding:6px 12px;
+                background-color:#8B5CF6;
+                color:white;
+                text-decoration:none;
+                border-radius:6px;
+                font-size:13px;
+                font-weight:bold;">
+        🔗 Ver Código
       </a>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       🕹 <b>Donkey_Kong_SFML</b><br><br>
-      Projeto desenvolvido em Linguagem e Técnicas de Programação I, que utiliza a linguagem de programação C++ e a biblioteca de recursos multimídia Simple and Fast Multimedia Library (SFML).<br><br>
-      <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
-        🔗 <b>Ver Código</b>
+      Projeto desenvolvido em Linguagem e Técnicas de Programação I,
+      utilizando C++ e a biblioteca SFML.<br><br>
+      <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML"
+         style="display:inline-block;
+                padding:6px 12px;
+                background-color:#EF4444;
+                color:white;
+                text-decoration:none;
+                border-radius:6px;
+                font-size:13px;
+                font-weight:bold;">
+        🔗 Ver Código
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      ➕ <b>Mais projetos</b><br><br>
+      Explore os demais projetos que eu desenvolvi ou colaborei.<br><br>
+      <a href="https://github.com/SamuelMatiasSfr?tab=repositories"
+         style="display:inline-block;
+                padding:6px 12px;
+                background-color:#14B8A6;
+                color:white;
+                text-decoration:none;
+                border-radius:6px;
+                font-size:13px;
+                font-weight:bold;">
+        📂 Todos os Projetos
       </a>
     </td>
   </tr>
