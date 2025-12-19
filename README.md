@@ -87,14 +87,10 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
       utilizando C++ e a biblioteca SFML.<br><br>
       [![Ver Código](https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML)
     </td>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       ➕ <b>Mais projetos</b><br><br>
       Explore os demais projetos que eu desenvolvi ou colaborei.<br><br><br>
       [![Todos os Projetos](https://img.shields.io/badge/Todos%20os%20Projetos-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelMatiasSfr?tab=repositories)
-    </td>
     </td>
   </tr>
 </table>
