@@ -89,7 +89,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
     </td>
     <td width="50%" valign="top">
       ➕ <b>Mais projetos</b><br><br>
-      Explore os demais projetos que eu desenvolvi ou colaborei.<br><br><br>
+      Explore os demais projetos que eu desenvolvi ou colaborei.<br><br>
       [![Todos os Projetos](https://img.shields.io/badge/Todos%20os%20Projetos-5865F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelMatiasSfr?tab=repositories)
     </td>
   </tr>
