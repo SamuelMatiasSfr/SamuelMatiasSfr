@@ -86,7 +86,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
     <td width="50%" valign="top">
       📱 <b>TrabalhoPraticoWEB</b><br><br>
       Projeto desenvolvido em Aplicações para Web II, para fins didáticos,
-      utilizando PHP e o padrão Model-View-Controller (MVC).<br><br>
+      utilizando PHP e o padrão Model-View-Controller (MVC).<br><br><br>
       <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB"
          style="display:inline-block;
                 padding:6px 12px;
@@ -119,7 +119,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
     </td>
     <td width="50%" valign="top">
       ➕ <b>Mais projetos</b><br><br>
-      Explore os demais projetos que eu desenvolvi ou colaborei.<br><br>
+      Explore os demais projetos que eu desenvolvi ou colaborei.<br><br><br>
       <a href="https://github.com/SamuelMatiasSfr?tab=repositories"
          style="display:inline-block;
                 padding:6px 12px;
