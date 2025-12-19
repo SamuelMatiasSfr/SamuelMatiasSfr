@@ -48,14 +48,10 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
         <img src="back.jpg" width="80" height="80">
         <b>Desenvolvimento Backend</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200">
         <img src="front.jpg" width="80" height="80">
         <b>Desenvolvimento Frontend</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200">
         <img src="artificial.jpg" width="80" height="80">
         <b>Inteligência Artificial</b>
@@ -73,17 +69,14 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
       💡 <b>TCC</b><br><br>
       Projeto voltado para o estudo e prática de linguagens de programação,
       explorando conceitos avançados e implementações práticas.<br><br>
-
       <a href="https://github.com/SEU_USUARIO/LLP2">
         🔗 <b>Ver Código</b>
       </a>
     </td>
-
     <td width="50%" valign="top">
       🤖 <b>Programa-METACEFET-2024</b><br><br>
       Trabalho premiado por utilizar IA em websites imobiliários,
       explorando a API da OpenAI junto às bibliotecas Flask, LangChain e NLTK.<br><br>
-
       <a href="https://github.com/SEU_USUARIO/Programa-METACEFET-2024">
         🔗 <b>Ver Código</b>
       </a>
@@ -95,17 +88,14 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
       🛠️ <b>TrabalhoPratico2</b><br><br>
       Projeto colaborativo que demonstra habilidades em trabalho em equipe
       e resolução de problemas práticos.<br><br>
-
       <a href="https://github.com/SEU_USUARIO/TrabalhoPratico2">
         🔗 <b>Ver Código</b>
       </a>
     </td>
-
     <td width="50%" valign="top">
       ➕ <b>Mais Projetos</b><br><br>
       Explore todos os meus repositórios para acompanhar a evolução do meu
       aprendizado e projetos diversos.<br><br>
-
       <a href="https://github.com/SEU_USUARIO?tab=repositories">
         📂 <b>Todos os Projetos</b>
       </a>
