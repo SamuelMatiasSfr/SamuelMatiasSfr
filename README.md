@@ -61,7 +61,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 
 ---
 
-## 📚 Principais Projetos
+## Principais Projetos
 
 <table align="center" width="100%">
   <tr>
