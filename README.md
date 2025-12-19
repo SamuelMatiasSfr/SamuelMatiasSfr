@@ -67,14 +67,14 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   <tr>
     <td width="50%" valign="top">
       <b>TCC</b><br><br>
-      Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC), que utiliza Inteligência Artificial para determinar a porcentagem de chance de       ter tumor em uma imagem de ressonância magnética da região cerebral..<br><br>
+      Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC), que utiliza Inteligência Artificial para determinar a porcentagem de chance de       ter tumor em uma imagem de ressonância magnética da região cerebral.<br><br>
       <a href="https://github.com/Grupo-8-2025/TCC">
         🔗 <b>Ver Código</b>
       </a>
     </td>
     <td width="50%" valign="top">
       <b>TrabalhoPraticoWEB</b><br><br>
-      Projeto desenvolvido em Aplicações para Web II, para fins didáticos, que utiliza a linguagem de programação PHP e o padrão de projeto Model-          View-Controller (MVC).<br><br>
+      Projeto desenvolvido em Aplicações para Web II, para fins didáticos, que utiliza a linguagem de programação PHP e o padrão de projeto Model-View-Controller (MVC).<br><br>
       <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB">
         🔗 <b>Ver Código</b>
       </a>
