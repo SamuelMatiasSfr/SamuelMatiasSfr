@@ -66,18 +66,16 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      💡 <b>TCC</b><br><br>
-      Projeto voltado para o estudo e prática de linguagens de programação,
-      explorando conceitos avançados e implementações práticas.<br><br>
-      <a href="https://github.com/SEU_USUARIO/LLP2">
+      <b>TCC</b><br><br>
+      Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC), que utiliza Inteligência Artificial para determinar a porcentagem de chance de       ter tumor em uma imagem de ressonância magnética da região cerebral..<br><br>
+      <a href="https://github.com/Grupo-8-2025/TCC">
         🔗 <b>Ver Código</b>
       </a>
     </td>
     <td width="50%" valign="top">
-      🤖 <b>Programa-METACEFET-2024</b><br><br>
-      Trabalho premiado por utilizar IA em websites imobiliários,
-      explorando a API da OpenAI junto às bibliotecas Flask, LangChain e NLTK.<br><br>
-      <a href="https://github.com/SEU_USUARIO/Programa-METACEFET-2024">
+      <b>TrabalhoPraticoWEB</b><br><br>
+      Projeto desenvolvido em Aplicações para Web II, para fins didáticos, que utiliza a linguagem de programação PHP e o padrão de projeto Model-          View-Controller (MVC).<br><br>
+      <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB">
         🔗 <b>Ver Código</b>
       </a>
     </td>
@@ -85,37 +83,11 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 
   <tr>
     <td width="50%" valign="top">
-      🛠️ <b>TrabalhoPratico2</b><br><br>
-      Projeto colaborativo que demonstra habilidades em trabalho em equipe
-      e resolução de problemas práticos.<br><br>
-      <a href="https://github.com/SEU_USUARIO/TrabalhoPratico2">
+      🛠️ <b>Donkey_Kong_SFML</b><br><br>
+      Projeto desenvolvido em Linguagem e Técnicas de Programação I, que utiliza a linguagem de programação C++ e a biblioteca de recursos                 multimídia Simple and Fast Multimedia Library (SFML).<br><br>
+      <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
         🔗 <b>Ver Código</b>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      ➕ <b>Mais Projetos</b><br><br>
-      Explore todos os meus repositórios para acompanhar a evolução do meu
-      aprendizado e projetos diversos.<br><br>
-      <a href="https://github.com/SEU_USUARIO?tab=repositories">
-        📂 <b>Todos os Projetos</b>
       </a>
     </td>
   </tr>
 </table>
-
-
-
-<!--
-**SamuelMatiasSfr/SamuelMatiasSfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
