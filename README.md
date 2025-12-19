@@ -69,7 +69,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   <tr>
     <td width="50%" valign="top">
       🧠 <b>TCC</b><br><br>
-      Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC), que utiliza Inteligência Artificial para determinar a porcentagem de chance de       ter tumor em uma imagem de ressonância magnética da região cerebral.<br><br>
+      <p style="text-align: justify;">Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC), que utiliza Inteligência Artificial para determinar a porcentagem de chance de       ter tumor em uma imagem de ressonância magnética da região cerebral.</p><br><br>
       <a href="https://github.com/Grupo-8-2025/TCC">
         🔗 <b>Ver Código</b>
       </a>
