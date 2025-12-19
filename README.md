@@ -54,7 +54,8 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
     </td>
     <td align="center" width="180">
       <img src="artificial.jpg" width="80" height="80"><br>
-      <b>Inteligência Artificial</b>
+      <b>Inteligência</b><br>
+      <b>Artificial</b>
     </td>
   </tr>
 </table>
