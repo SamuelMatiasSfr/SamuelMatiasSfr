@@ -44,20 +44,21 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 ## Principais Interesses
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="back.jpg" width="80" height="80" style="display:block; margin: 0 auto 8px auto;">
+    <td align="center" width="180">
+      <img src="back.jpg" width="80" height="80"><br>
       <b>Desenvolvimento Backend</b>
     </td>
-    <td align="center" width="200">
-      <img src="front.jpg" width="80" height="80" style="display:block; margin: 0 auto 8px auto;">
+    <td align="center" width="180">
+      <img src="front.jpg" width="80" height="80"><br>
       <b>Desenvolvimento Frontend</b>
     </td>
-    <td align="center" width="200">
-      <img src="artificial.jpg" width="80" height="80" style="display:block; margin: 0 auto 8px auto;">
+    <td align="center" width="180">
+      <img src="artificial.jpg" width="80" height="80"><br>
       <b>Inteligência Artificial</b>
     </td>
   </tr>
 </table>
+
 
 ---
 
