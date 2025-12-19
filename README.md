@@ -69,14 +69,14 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   <tr>
     <td width="50%" valign="top">
       🧠 <b>TCC</b><br><br>
-      <p style="text-align: justify;">Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC), que utiliza Inteligência Artificial para determinar a porcentagem de chance de       ter tumor em uma imagem de ressonância magnética da região cerebral.</p><br><br>
+      <p style="text-align: justify;">Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC), que utiliza Inteligência Artificial para determinar a porcentagem de chance de ter tumor em uma       imagem de ressonância magnética da região cerebral.</p><br><br>
       <a href="https://github.com/Grupo-8-2025/TCC">
         🔗 <b>Ver Código</b>
       </a>
     </td>
     <td width="50%" valign="top">
       📱 <b>TrabalhoPraticoWEB</b><br><br>
-      Projeto desenvolvido em Aplicações para Web II, para fins didáticos, que utiliza a linguagem de programação PHP e o padrão de projeto Model-View-Controller (MVC).<br><br>
+      <p style="text-align: justify;">Projeto desenvolvido em Aplicações para Web II, para fins didáticos, que utiliza a linguagem de programação PHP e o padrão de projeto Model-View-Controller           (MVC).</p><br><br>
       <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB">
         🔗 <b>Ver Código</b>
       </a>
@@ -86,7 +86,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   <tr>
     <td width="50%" valign="top">
       🕹 <b>Donkey_Kong_SFML</b><br><br>
-      Projeto desenvolvido em Linguagem e Técnicas de Programação I, que utiliza a linguagem de programação C++ e a biblioteca de recursos                 multimídia Simple and Fast Multimedia Library (SFML).<br><br>
+      <p style="text-align: justify;">Projeto desenvolvido em Linguagem e Técnicas de Programação I, que utiliza a linguagem de programação C++ e a biblioteca de recursos multimídia Simple and Fast Multimedia Library (SFML).</p><br><br>
       <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
         🔗 <b>Ver Código</b>
       </a>
