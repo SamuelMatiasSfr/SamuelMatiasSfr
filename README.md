@@ -45,16 +45,16 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 <table align="center">
   <tr>
     <td align="center" width="200">
-        <img src="back.jpg" width="80" height="80">
-        <b>Desenvolvimento Backend</b>
+      <img src="back.jpg" width="80" height="80" style="display:block; margin: 0 auto 8px auto;">
+      <b>Desenvolvimento Backend</b>
     </td>
     <td align="center" width="200">
-        <img src="front.jpg" width="80" height="80">
-        <b>Desenvolvimento Frontend</b>
+      <img src="front.jpg" width="80" height="80" style="display:block; margin: 0 auto 8px auto;">
+      <b>Desenvolvimento Frontend</b>
     </td>
     <td align="center" width="200">
-        <img src="artificial.jpg" width="80" height="80">
-        <b>Inteligência Artificial</b>
+      <img src="artificial.jpg" width="80" height="80" style="display:block; margin: 0 auto 8px auto;">
+      <b>Inteligência Artificial</b>
     </td>
   </tr>
 </table>
