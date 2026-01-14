@@ -2,7 +2,7 @@
 
 🎓 Técnico de Informática em formação  
 💻 Interessado em desenvolvimento back-end e front-end  
-🚀 Buscando aprender novas tecnologias
+🚀 Buscando aprender novas tecnologias e uma oportunidade de aplicar meus conhecimentos na prática
 
 ---
 
@@ -69,7 +69,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   <tr>
     <td width="50%" valign="top">
       🧠 <b>TCC</b><br><br>
-      Projeto desenvolvido que utiliza Inteligência Artificial para determinar a
+      Projeto desenvolvido que utiliza inteligência artificial para determinar a
       porcentagem de chance de ter tumor em uma imagem de ressonância magnética da
       região cerebral.<br><br>
       <a href="https://github.com/Grupo-8-2025/TCC">
@@ -78,7 +78,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
     </td>
     <td width="50%" valign="top">
       📱 <b>TrabalhoPraticoWEB</b><br><br>
-      Projeto desenvolvido em Aplicações para Web 2, para fins didáticos,
+      Loja de E-commerce, desenvolvida para fins didáticos,
       utilizando PHP e o padrão Model-View-Controller (MVC).<br><br><br>
       <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
@@ -88,7 +88,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   <tr>
     <td width="50%" valign="top">
       🕹 <b>remake_donkey_kong</b><br><br>
-      Projeto desenvolvido em Linguagem e Técnicas de Programação 1,
+      Remake do jogo Donkey Kong de Atari, desenvolvido
       utilizando C++ e a biblioteca SFML.<br><br>
       <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
