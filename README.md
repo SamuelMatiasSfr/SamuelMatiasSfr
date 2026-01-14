@@ -68,7 +68,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      🧠 <b>TCC</b><br><br>
+      🧠 <b>med_brain_scan</b><br><br>
       Projeto desenvolvido que utiliza inteligência artificial para determinar a
       porcentagem de chance de ter tumor em uma imagem de ressonância magnética da
       região cerebral.<br><br>
@@ -77,7 +77,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
       </a>
     </td>
     <td width="50%" valign="top">
-      📱 <b>TrabalhoPraticoWEB</b><br><br>
+      📱 <b>e-commerce_celulares</b><br><br>
       Loja de E-commerce, desenvolvida para fins didáticos,
       utilizando PHP e o padrão Model-View-Controller (MVC).<br><br><br>
       <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB">
