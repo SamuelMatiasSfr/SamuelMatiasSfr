@@ -11,7 +11,8 @@
 Sou **Técnico de Informática em formação no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**. Meu foco está no **desenvolvimento back-end e front-end**, mas tenho interesse em outras áreas, como **inteligência artificial**.
 
 <div align="center">
-[![Linkedin]([https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/public-profile/settingslipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B43LqwzHuRuGlFRK6n%2BtFzA%3D%3D)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the
+badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmatias123/)
 </div>
 
 ---
