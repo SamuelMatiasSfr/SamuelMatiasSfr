@@ -12,7 +12,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 
 <div align="center">
   
-[![Meu LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmatias123/)
+[![Meu-LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmatias123/)
 
 </div>
 
