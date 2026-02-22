@@ -12,7 +12,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 
 <div align="center">
   
-[![Meu LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmatias123/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmatias123/)
 
 </div>
 
@@ -22,24 +22,23 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 
 <div align="center">
 
-### 👨‍💻 Linguagens de Programação
+### Linguagens de Programação
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/SamuelMatiasSfr/codigos_java)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Grupo-8-2025/TCC)
 
-### 🌐 Desenvolvimento Web
+### Desenvolvimento Web
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Grupo-8-2025/TrabalhoPraticoWEB)
 
-### 🎲 Banco de Dados
+### Banco de Dados
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)](https://github.com/SamuelMatiasSfr/crud_tarefas)
 [![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 
-### 🛠️ Ferramentas e Sistemas
+### Ferramentas e Sistemas
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
 
@@ -83,9 +82,9 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
       </a>
     </td>
     <td width="50%" valign="top">
-      📱 <b>e-commerce_celulares</b><br><br>
-      Loja de E-commerce, desenvolvida para fins didáticos,
-      utilizando PHP e o padrão Model-View-Controller (MVC).<br><br><br>
+      🏫 <b>java_crud_academico</b><br><br>
+      Projeto em Java de CRUD de alunos, professores e técnicos-administrativos, 
+      permitindo cadastro, edição e exclusão de registros.<br><br><br>
       <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
@@ -93,7 +92,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   </tr>
   <tr>
     <td width="50%" valign="top">
-      🕹 <b>remake_donkey_kong</b><br><br>
+      🕹 <b>cpp_remake_donkey_kong</b><br><br>
       Remake do jogo Donkey Kong de Atari, desenvolvido
       utilizando C++ e a biblioteca SFML.<br><br>
       <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
