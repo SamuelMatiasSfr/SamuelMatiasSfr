@@ -2,7 +2,9 @@
 
 🎓 Técnico de Informática em formação  
 💻 Interessado em desenvolvimento back-end e front-end  
-🚀 Buscando aprender novas tecnologias e uma oportunidade de aplicar meus conhecimentos na prática
+🚀 Em busca de oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos na prática
+
+📫 Contato: samuelmatias754@gmail.com
 
 ---
 
@@ -49,6 +51,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
 ---
 
 ## Principais Interesses
+
 <table align="center">
   <tr>
     <td align="center" width="180">
@@ -61,7 +64,6 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -81,7 +83,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
       🏫 <b>java_crud_academico</b><br><br>
       Projeto em Java de CRUD de alunos, professores e técnicos-administrativos, 
       permitindo cadastro, edição e exclusão de registros.<br><br><br>
-      <a href="https://github.com/Grupo-8-2025/TrabalhoPraticoWEB">
+      <a href="https://github.com/SamuelMatiasSfr/codigos_java">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
@@ -103,4 +105,3 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
     </td>
   </tr>
 </table>
-
