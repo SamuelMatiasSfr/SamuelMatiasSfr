@@ -10,9 +10,7 @@
 
 ## Sobre Mim
 
-<div align="justify">
 Sou Técnico de Informática em formação no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), com foco em desenvolvimento back-end e front-end.
-</div>
 
 <div align="center">
   
