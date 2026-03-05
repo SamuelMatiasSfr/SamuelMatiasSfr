@@ -74,7 +74,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
     <td width="50%" valign="top">
       🕹 <b>cpp_remake_donkey_kong</b><br><br>
       Remake do jogo Donkey Kong de Atari, desenvolvido
-      utilizando C++ e a biblioteca SFML, recriando a jogabilidade clássica com gráficos e mecânicas adaptadas.<br><br>
+      utilizando C++ e a biblioteca SFML, recriando a jogabilidade com gráficos adaptadas.<br><br>
       <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
@@ -91,14 +91,14 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
   <tr>
     <td width="50%" valign="top">
       ✅ <b>php_crud_tarefas</b><br><br>
-      Projeto em PHP de CRUD de tarefas, permitindo cadastro e login de usuários, bem como cadastro, edição e exclusão de tarefas.<br>
+      Projeto em PHP de CRUD de tarefas, permitindo cadastro, edição e exclusão de registros.<br><br>
       <a href="https://github.com/Grupo-8-2025/TCC">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
     <td width="50%" valign="top">
       ➕ <b>Mais projetos</b><br><br>
-      Explore os demais projetos que eu desenvolvi ou colaborei.<br>
+      Explore outros projetos que desenvolvi ou colaborei, destacando experiências e contribuições realizadas.<br><br>
       <a href="https://github.com/SamuelMatiasSfr?tab=repositories">
         <img src="https://img.shields.io/badge/Todos%20os%20Projetos-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
