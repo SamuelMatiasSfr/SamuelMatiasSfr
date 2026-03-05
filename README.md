@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Sou **Técnico de Informática em formação no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**. Meu foco está no **desenvolvimento back-end e front-end**.
+Sou Técnico de Informática em formação no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG). Meu foco está no desenvolvimento back-end e front-end.
 
 <div align="center">
   
@@ -37,10 +37,11 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 
 ### Banco de Dados
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)](https://github.com/SamuelMatiasSfr/crud_tarefas)
-[![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ### Ferramentas e Sistemas
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white)]()
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
 
 </div>
