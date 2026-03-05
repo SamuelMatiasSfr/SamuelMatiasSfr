@@ -74,11 +74,10 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      🧠 <b>med_brain_scan</b><br><br>
-      Projeto desenvolvido que utiliza inteligência artificial para determinar a
-      porcentagem de chance de ter tumor em uma imagem de ressonância magnética da
-      região cerebral.<br><br>
-      <a href="https://github.com/Grupo-8-2025/TCC">
+      🕹 <b>cpp_remake_donkey_kong</b><br><br>
+      Remake do jogo Donkey Kong de Atari, desenvolvido
+      utilizando C++ e a biblioteca SFML.<br><br>
+      <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
@@ -93,10 +92,9 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   </tr>
   <tr>
     <td width="50%" valign="top">
-      🕹 <b>cpp_remake_donkey_kong</b><br><br>
-      Remake do jogo Donkey Kong de Atari, desenvolvido
-      utilizando C++ e a biblioteca SFML.<br><br>
-      <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
+      🧠 <b>php_crud_tarefas</b><br><br>
+      Projeto em PHP de CRUD de tarefas, permitindo cadastro e login de usuários, bem como cadastro, edição e exclusão de tarefas.<br><br>
+      <a href="https://github.com/Grupo-8-2025/TCC">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
