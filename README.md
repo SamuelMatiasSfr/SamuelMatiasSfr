@@ -5,7 +5,7 @@
 <div align="justify">
 🚀 Em busca de oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos na prática
 </div>
-  
+
 📫 Contato: samuelmatias754@gmail.com
 
 ---
