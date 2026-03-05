@@ -74,7 +74,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
     <td width="50%" valign="top">
       🕹 <b>cpp_remake_donkey_kong</b><br><br>
       Remake do jogo Donkey Kong de Atari, desenvolvido
-      utilizando C++ e a biblioteca SFML.<br>
+      utilizando C++ e a biblioteca SFML, recriando a jogabilidade clássica com gráficos e mecânicas adaptadas.<br><br>
       <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
@@ -82,7 +82,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
     <td width="50%" valign="top">
       🏫 <b>java_crud_academico</b><br><br>
       Projeto em Java de CRUD de alunos, professores e técnicos-administrativos, 
-      permitindo cadastro, edição e exclusão de registros.<br>
+      permitindo cadastro, edição e exclusão de registros.<br><br>
       <a href="https://github.com/SamuelMatiasSfr/codigos_java">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
