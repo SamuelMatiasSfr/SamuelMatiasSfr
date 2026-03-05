@@ -98,7 +98,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
     </td>
     <td width="50%" valign="top">
       ➕ <b>Mais projetos</b><br><br>
-      Explore outros projetos que desenvolvi ou colaborei, destacando experiências e contribuições realizadas.<br><br>
+      Explore outros projetos do meu porfólio, destacando experiências e contribuições realizadas.<br><br>
       <a href="https://github.com/SamuelMatiasSfr?tab=repositories">
         <img src="https://img.shields.io/badge/Todos%20os%20Projetos-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
