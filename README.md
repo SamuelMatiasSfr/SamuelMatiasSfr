@@ -74,7 +74,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
     <td width="50%" valign="top">
       🕹 <b>cpp_remake_donkey_kong</b><br><br>
       Remake do jogo Donkey Kong de Atari, desenvolvido
-      utilizando C++ e a biblioteca SFML.<
+      utilizando C++ e a biblioteca SFML.<br>
       <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
@@ -82,7 +82,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
     <td width="50%" valign="top">
       🏫 <b>java_crud_academico</b><br><br>
       Projeto em Java de CRUD de alunos, professores e técnicos-administrativos, 
-      permitindo cadastro, edição e exclusão de registros.
+      permitindo cadastro, edição e exclusão de registros.<br>
       <a href="https://github.com/SamuelMatiasSfr/codigos_java">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
@@ -91,18 +91,19 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
   <tr>
     <td width="50%" valign="top">
       ✅ <b>php_crud_tarefas</b><br><br>
-      Projeto em PHP de CRUD de tarefas, permitindo cadastro e login de usuários, bem como cadastro, edição e exclusão de tarefas.
+      Projeto em PHP de CRUD de tarefas, permitindo cadastro e login de usuários, bem como cadastro, edição e exclusão de tarefas.<br>
       <a href="https://github.com/Grupo-8-2025/TCC">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
     <td width="50%" valign="top">
       ➕ <b>Mais projetos</b><br><br>
-      Explore os demais projetos que eu desenvolvi ou colaborei.
+      Explore os demais projetos que eu desenvolvi ou colaborei.<br>
       <a href="https://github.com/SamuelMatiasSfr?tab=repositories">
         <img src="https://img.shields.io/badge/Todos%20os%20Projetos-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
   </tr>
 </table>
+
 
