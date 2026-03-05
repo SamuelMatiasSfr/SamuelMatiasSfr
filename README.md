@@ -92,7 +92,7 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
   </tr>
   <tr>
     <td width="50%" valign="top">
-      🧠 <b>php_crud_tarefas</b><br><br>
+      ✅ <b>php_crud_tarefas</b><br><br>
       Projeto em PHP de CRUD de tarefas, permitindo cadastro e login de usuários, bem como cadastro, edição e exclusão de tarefas.<br><br>
       <a href="https://github.com/Grupo-8-2025/TCC">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
