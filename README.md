@@ -1,12 +1,12 @@
 ## Olá, sou Samuel Matias
 
-<div align="justify">
 🎓 Técnico de Informática em formação  
-💻 Interessado em desenvolvimento back-end e front-end  
+💻 Interessado em desenvolvimento back-end e front-end 
+<div align="justify">
 🚀 Em busca de oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos na prática
+</div>
   
 📫 Contato: samuelmatias754@gmail.com
-</div>
 
 ---
 
