@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-Sou **Técnico de Informática em formação no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**. Meu foco está no **desenvolvimento back-end e front-end**, mas tenho interesse em outras áreas, como **inteligência artificial**.
+Sou **Técnico de Informática em formação no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)**. Meu foco está no **desenvolvimento back-end e front-end**.
 
 <div align="center">
   
@@ -57,11 +57,6 @@ Sou **Técnico de Informática em formação no Centro Federal de Educação Tec
     <td align="center" width="180">
       <img src="front.jpg" width="80" height="80"><br>
       <b>Desenvolvimento Frontend</b>
-    </td>
-    <td align="center" width="180">
-      <img src="artificial.jpg" width="80" height="80"><br>
-      <b>Inteligência</b><br>
-      <b>Artificial</b>
     </td>
   </tr>
 </table>
