@@ -71,37 +71,79 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      🕹 <b>cpp_remake_donkey_kong</b><br><br>
-      Remake do jogo Donkey Kong de Atari, desenvolvido
-      utilizando C++ e a biblioteca SFML.<br><br>
-      <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
-        <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
-      </a>
+    <td width="50%">
+      <table height="170">
+        <tr>
+          <td>
+            🕹 <b>cpp_remake_donkey_kong</b><br><br>
+            Remake do jogo Donkey Kong de Atari, desenvolvido
+            utilizando C++ e a biblioteca SFML.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
+              <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      🏫 <b>java_crud_academico</b><br><br>
-      Projeto em Java de CRUD de alunos, professores e técnicos-administrativos, 
-      permitindo cadastro, edição e exclusão de registros.<br><br><br>
-      <a href="https://github.com/SamuelMatiasSfr/codigos_java">
-        <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
-      </a>
+    <td width="50%">
+      <table height="170">
+        <tr>
+          <td>
+            🏫 <b>java_crud_academico</b><br><br>
+            Projeto em Java de CRUD de alunos, professores e técnicos-administrativos,
+            permitindo cadastro, edição e exclusão de registros.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/SamuelMatiasSfr/codigos_java">
+              <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
-      ✅ <b>php_crud_tarefas</b><br><br>
-      Projeto em PHP de CRUD de tarefas, permitindo cadastro e login de usuários, bem como cadastro, edição e exclusão de tarefas.<br><br>
-      <a href="https://github.com/Grupo-8-2025/TCC">
-        <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
-      </a>
+    <td width="50%">
+      <table height="170">
+        <tr>
+          <td>
+            ✅ <b>php_crud_tarefas</b><br><br>
+            Projeto em PHP de CRUD de tarefas, permitindo cadastro e login de usuários,
+            bem como cadastro, edição e exclusão de tarefas.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/Grupo-8-2025/TCC">
+              <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      ➕ <b>Mais projetos</b><br><br>
-      Explore os demais projetos que eu desenvolvi ou colaborei.<br><br><br>
-      <a href="https://github.com/SamuelMatiasSfr?tab=repositories">
-        <img src="https://img.shields.io/badge/Todos%20os%20Projetos-5865F2?style=for-the-badge&logo=github&logoColor=white">
-      </a>
+    <td width="50%">
+      <table height="170">
+        <tr>
+          <td>
+            ➕ <b>Mais projetos</b><br><br>
+            Explore os demais projetos que eu desenvolvi ou colaborei.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/SamuelMatiasSfr?tab=repositories">
+              <img src="https://img.shields.io/badge/Todos%20os%20Projetos-5865F2?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
