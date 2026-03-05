@@ -72,7 +72,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <table height="170">
+      <table height="70">
         <tr>
           <td>
             🕹 <b>cpp_remake_donkey_kong</b><br><br>
@@ -90,7 +90,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
       </table>
     </td>
     <td width="50%">
-      <table height="170">
+      <table height="70">
         <tr>
           <td>
             🏫 <b>java_crud_academico</b><br><br>
@@ -111,7 +111,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
 
   <tr>
     <td width="50%">
-      <table height="170">
+      <table height="70">
         <tr>
           <td>
             ✅ <b>php_crud_tarefas</b><br><br>
@@ -129,7 +129,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
       </table>
     </td>
     <td width="50%">
-      <table height="170">
+      <table height="70">
         <tr>
           <td>
             ➕ <b>Mais projetos</b><br><br>
