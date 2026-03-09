@@ -25,20 +25,21 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
 <div align="center">
 
 ### Linguagens de Programação
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/SamuelMatiasSfr/codigos_java)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Grupo-8-2025/TCC)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/SamuelMatiasSfr/cpp_remake_donkey_kong)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/SamuelMatiasSfr/java_crud_academico)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/SamuelMatiasSfr/php_crud_tarefas)
+
 
 ### Desenvolvimento Web
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Grupo-8-2025/TrabalhoPraticoWEB)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/SamuelMatiasSfr/php_crud_tarefas)
 
 ### Banco de Dados
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)](https://github.com/SamuelMatiasSfr/crud_tarefas)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 
 ### Ferramentas e Sistemas
@@ -75,7 +76,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
       🕹 <b>cpp_remake_donkey_kong</b><br><br>
       Remake do jogo Donkey Kong de Atari, desenvolvido
       utilizando C++ e a biblioteca SFML, recriando a jogabilidade com gráficos adaptadas.<br><br>
-      <a href="https://github.com/SamuelMatiasSfr/Donkey_Kong_SFML">
+      <a href="https://github.com/SamuelMatiasSfr/cpp_remake_donkey_kong">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
@@ -83,7 +84,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
       🏫 <b>java_crud_academico</b><br><br>
       Projeto em Java de CRUD de alunos, professores e técnicos-administrativos, 
       permitindo cadastro, edição e exclusão de registros.<br><br>
-      <a href="https://github.com/SamuelMatiasSfr/codigos_java">
+      <a href="https://github.com/SamuelMatiasSfr/java_crud_academico">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
@@ -92,7 +93,7 @@ Sou Técnico de Informática em formação no Centro Federal de Educação Tecno
     <td width="50%" valign="top">
       ✅ <b>php_crud_tarefas</b><br><br>
       Projeto em PHP de CRUD de tarefas, permitindo cadastro, edição e exclusão de registros.<br><br>
-      <a href="https://github.com/Grupo-8-2025/TCC">
+      <a href="https://github.com/SamuelMatiasSfr/php_crud_tarefas">
         <img src="https://img.shields.io/badge/Ver%20Código-5865F2?style=for-the-badge&logo=github&logoColor=white">
       </a>
     </td>
