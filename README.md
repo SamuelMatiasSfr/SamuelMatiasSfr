@@ -1,8 +1,7 @@
 ## Olá, sou Samuel Matias
 
 🎓 Estudante de Técnico em Informática pelo CEFET-MG, com aulas concluídas e estágio obrigatório pendente                                                                                            
-💻 Interessado em desenvolvimento back-end e front-end
-🚀 Em busca de oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos na prática
+💻 Interessado em desenvolvimento back-end e front-end                                                                                                                                               🚀 Em busca de oportunidade de estágio em desenvolvimento de software para aplicar meus conhecimentos na prática
 
 📫 Contato: samuelmatias754@gmail.com  
 
