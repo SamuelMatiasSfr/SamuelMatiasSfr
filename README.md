@@ -60,7 +60,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      🕹 <b>Remake Donkey Kong</b><br><br>
+      🕹 <b>Remake Donkey Kong de Atari</b><br><br>
       Remake do jogo Donkey Kong de Atari, desenvolvido
       utilizando C++ e a biblioteca SFML, recriando a jogabilidade com gráficos adaptadas.<br><br>
       <a href="https://github.com/SamuelMatiasSfr/cpp_remake_donkey_kong">
